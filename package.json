@@ -1,6 +1,6 @@
 {
   "name": "zpl_json_write.c",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small, fast and standard-friendly JSON writer.",
   "main": "include/zpl_json_write.h",
   "directories": {
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/zpl-c/zpl-json-write#readme",
   "dependencies": {
-    "zpl.c": "^2.0.7",
+    "zpl.c": "^3.0.0",
     "zpl_json.c": "^1.0.4"
   }
 }
