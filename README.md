@@ -1,3 +1,4 @@
+# MIGRATED TO [zpl](https://github.com/zpl-c/zpl)
 # ZPL - JSON writer module
 [![npm version](https://badge.fury.io/js/zpl_json_write.c.svg)](https://badge.fury.io/js/zpl_json_write.c)
 
